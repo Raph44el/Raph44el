@@ -11,6 +11,10 @@
 
 - C + H
 - W2I
+- I have social anxiety sorry if im slow reply
+- I'm both yapper and listener (mostly listen)
+- English isn't my first language so please correct me if I'm wrong
+
 <p><p align="center">You will usually see me cosplaying DMC (maybe RE in the future)</center></p>
 
 <p align="center">
