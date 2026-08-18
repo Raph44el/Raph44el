@@ -21,9 +21,7 @@
   <img src="https://i.pinimg.com/originals/86/b8/dc/86b8dc9506a47b64333d61b36736e963.gif" alt="gif">
 </p>
 
-<p>
-  <img src="https://i.pinimg.com/originals/18/4e/34/184e34c7bd2d220668d783391cc694b5.gif" alt="gif">
-</p>
+
 
 
 
