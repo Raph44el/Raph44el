@@ -1,6 +1,11 @@
 
 <p align="center">Rachel / Raphael | 18 | readme WIP</center> 
 
+<p align="center">
+  <a href="https://en.pronouns.page/@rchl_.r">pronouns</a> |
+  straw
+</p>
+
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/814811858942558218/1548252531405094952/IMG_1569.png?ex=6aa66208&is=6aa51088&hm=c76b062bd0be63cfb6aa87357d9d651c1c655cb28e6b82d18f1326c93ab63477&" style="width: 20%; height: 20%;" alt="img">
@@ -16,3 +21,11 @@
 
 
 $${\color{blue}\text{ "You know God, I always hated that you made my arm like this... But now with it, I can destroy this thing. Who would've thought... "}}$$
+
+<br><br>
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/974358798095487046/1548330468301078619/IMG_1570.jpg?ex=6aa6aa9e&is=6aa5591e&hm=1fb9aa22b660013519e63928f3be6146548ff94dbd84279cee4131ef3efc3688&=&format=webp&width=875&height=1024" style="width: 20%; height: 20%;" alt="img">
+</p>
+
+
