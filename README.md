@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/814811858942558218/1548252531405094952/IMG_1569.png?ex=6aa66208&is=6aa51088&hm=c76b062bd0be63cfb6aa87357d9d651c1c655cb28e6b82d18f1326c93ab63477&" style="width: 20%; height: 20%;" alt="img">
+  <img src="https://cdn.discordapp.com/attachments/814811858942558218/1548252531405094952/IMG_1569.png?ex=6ac8a908&is=6ac75788&hm=363206686201a10ea44f3407c38b8ce28aa9e38891be3a54f7e8bc8c7f2f2e0f&" style="width: 20%; height: 20%;" alt="img">
 </p>
 
 
@@ -25,7 +25,7 @@ $${\color{blue}\text{ "You know God, I always hated that you made my arm like th
 <br><br>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/974358798095487046/1548330468301078619/IMG_1570.jpg?ex=6aa6aa9e&is=6aa5591e&hm=1fb9aa22b660013519e63928f3be6146548ff94dbd84279cee4131ef3efc3688&=&format=webp&width=875&height=1024" style="width: 20%; height: 20%;" alt="img">
+  <img src="https://cdn.discordapp.com/attachments/814811858942558218/1548330399057584169/IMG_1570.jpg?ex=6ac8f18d&is=6ac7a00d&hm=4989e5922cafd4fda8028b652adfbf6a75d3042cbf973954571e627cb4a18732&" style="width: 20%; height: 20%;" alt="img">
 </p>
 
 
